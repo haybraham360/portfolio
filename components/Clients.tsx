@@ -6,7 +6,7 @@ const Clients = () => {
   return (
     <div className="py-20" id="testimonials">
       <h1 className="heading">
-        Feedback from{" "}
+        Feedback from
         <span className="text-purple"> satisfied 
         clients</span>
       </h1>

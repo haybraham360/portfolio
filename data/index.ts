@@ -77,14 +77,15 @@ export const navItems = [
       img: "/casaswap.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
       link: "https://nx4a5-gqaaa-aaaal-adunq-cai.icp0.io/",
+      
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "ClientFirst Accounting Services",
+      des: "A streamlined accounting website providing comprehensive financial management, invoicing, and reporting tools for businesses of all sizes.",
+      img: "/clientfirst.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "/",
+      link: "https://stage1.cursed.day/",
     },
     {
       id: 3,
@@ -96,45 +97,34 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
+      title: "Much Law Firm",
+      des: "A professional law firm website offering expert legal services and personalized counsel across various practice areas.",
+      img: "/muchlaw.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "/",
+      link: "https://www.muchlaw.com/",
     },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Abraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Collaborating with Abraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Abraham's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Abraham is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
     },
     {
       quote:
-        "Collaborating with Abraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "I couldn't be happier with the web application developed by Abraham. It has streamlined our processes and enhanced our customer experience. Their expertise and dedication shine through in their work.",
+      name: "Lisa T",
+      title: "Manager at Bright Start Education",
     },
     {
       quote:
-        "Collaborating with Abraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Exceptional service and outstanding results! [Your Name] delivered a top-notch web application that exceeded our expectations. Their attention to detail and professionalism are unmatched.",
+      name: "John M",
+      title: "Founder of Green Solutions",
     },
-    {
-      quote:
-        "Collaborating with Adbraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Abraham was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
+  
   ];
   
   export const companies = [
@@ -180,22 +170,22 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
+      title: "Mobile App Dev",
       desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
+      title: "Freelance Web Dev Project",
       desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Lead Frontend Developer - Casaswap",
+      desc: "Developed and maintained user-facing features using modern frontend technologies, which were deployed on the Internet Computer.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
