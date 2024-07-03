@@ -120,7 +120,7 @@ export const navItems = [
     },
     {
       quote:
-        "Exceptional service and outstanding results! [Your Name] delivered a top-notch web application that exceeded our expectations. Their attention to detail and professionalism are unmatched.",
+        "Exceptional service and outstanding results! Abraham delivered a top-notch web application that exceeded our expectations. Their attention to detail and professionalism are unmatched.",
       name: "John M",
       title: "Founder of Green Solutions",
     },
